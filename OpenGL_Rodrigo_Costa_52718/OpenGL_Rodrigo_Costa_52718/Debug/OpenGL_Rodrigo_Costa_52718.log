@@ -1,0 +1,5 @@
+﻿  Rodrigo_52718.cpp
+f:\users\rodrigo\documents\visual studio 2017\projects\opengl_rodrigo_costa_52718\opengl_rodrigo_costa_52718\rodrigo_52718.cpp(111): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+f:\users\rodrigo\documents\visual studio 2017\projects\opengl_rodrigo_costa_52718\opengl_rodrigo_costa_52718\rodrigo_52718.cpp(112): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  OpenGL_Rodrigo_Costa_52718.vcxproj -> f:\users\rodrigo\documents\visual studio 2017\Projects\OpenGL_Rodrigo_Costa_52718\Debug\OpenGL_Rodrigo_Costa_52718.exe
+  OpenGL_Rodrigo_Costa_52718.vcxproj -> f:\users\rodrigo\documents\visual studio 2017\Projects\OpenGL_Rodrigo_Costa_52718\Debug\OpenGL_Rodrigo_Costa_52718.pdb (Partial PDB)
